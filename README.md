@@ -29,7 +29,7 @@ GeoScope is part of a broader line of embedded diagnostic tools:
 | Project | Main Focus |
 |---|---|
 | **MSER v2.0** | Environmental sensing and data monitoring |
-| **Signal Scanner** | Wireless, RF, and electrical signal diagnostics |
+| **Signal Scanner** | Wireless, RF, EMF and electrical signal diagnostics |
 | **GeoScope v1.0** | GPS-based field surveying, mapping, and navigation |
 
 GeoScope adds a location and movement layer to the diagnostic tool family.
